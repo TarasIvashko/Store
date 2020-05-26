@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Iterator;
-import java.util.List;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -20,11 +17,9 @@ public class Main {
 //s.delite("b");
 //s.multipliCost(Type.FIRST);
 //s.luxuriProduct(99);
-String s="abc";
-
-
-        System.out.println(s.substring(0,4));
-
+Set <new3> s = new HashSet<>();
+s.add(new new3());
+s.add(new new3());
 
 
     }
